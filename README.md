@@ -1,5 +1,45 @@
-👋 Hey there! I'm Dieudonne, a full-stack developer with a passion for building cool, user-friendly web applications and diving deep into the world of AI & machine learning. Whether it’s crafting sleek *"**React & Next.js frontends"***, engineering solid *"**Node.js and Flask backends**"*, or *"**training AI models**"*, I love bringing ideas to life with code. Currently, I’m leveling up my AI game while pursuing my Master’s in Artificial Intelligence at the University of Pisa. 🚀
+# Dieudonne Iyabivuze
 
-I’ve built some exciting projects like *"**ClassTap**"*, an RFID-powered student attendance system, *"**KiitEats**"*, a food ordering platform that makes cravings disappear, and many more. When I’m not coding, you’ll probably find me exploring the latest tech trends, tweaking my Tailwind CSS designs, or figuring out why my code worked five minutes ago but suddenly doesn’t. 🤯
+## AI Engineer
 
-Let’s connect, collab, and build something awesome together! Find me at *https://dieudonnei.vercel.app* or slide into my DM on LinkedIn: *https://www.linkedin.com/in/iyabivuze/* . 💬✨
+AI Engineer specializing in **LLM systems, model fine-tuning, and Retrieval-Augmented Generation (RAG)** and more.
+
+MSc Artificial Intelligence candidate — University of Pisa  
+Founder — Rwanda AI Network (RAIN)
+
+---
+
+## Current Work
+
+I am leading the development of **SomaAI**, an open-source AI platform aligned with the Rwandan national curriculum — integrating:
+
+- Structured retrieval pipelines (RAG)  
+- Scalable backend architecture  
+- Education-focused AI systems  
+
+Rwanda AI Network (RAIN): https://github.com/Rwanda-AI-Network  
+SomaAI (Open Source Project): https://github.com/Rwanda-AI-Network/SomaAI  
+
+---
+
+## Expertise
+
+- LLM fine-tuning & evaluation  
+- Retrieval-Augmented Generation (RAG) systems  
+- ML experimentation & deployment  
+- FastAPI, Node.js, Next.js  
+- AI system design
+- GenAI, AI Agents, and Agentic AI
+
+---
+
+## Vision
+
+Building sustainable AI infrastructure for emerging markets — with a focus on education, accessibility, and open innovation.
+
+---
+
+## Connect
+
+Website: https://dieudonnei.vercel.app  
+LinkedIn: https://www.linkedin.com/in/iyabivuze/
