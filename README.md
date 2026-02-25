@@ -5,7 +5,6 @@
 AI Engineer specializing in **LLM systems, model fine-tuning, and Retrieval-Augmented Generation (RAG)** and more.
 
 MSc Artificial Intelligence candidate — University of Pisa  
-Founder — Rwanda AI Network (RAIN)
 
 ---
 
