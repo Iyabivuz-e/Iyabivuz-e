@@ -34,7 +34,7 @@ SomaAI (Open Source Project): https://github.com/Rwanda-AI-Network/SomaAI
 
 ## Vision
 
-Building sustainable AI infrastructure for emerging markets — with a focus on education, accessibility, and open innovation.
+Building sustainable AI infrastructure for emerging markets, accessibile, and open innovation.
 
 ---
 
