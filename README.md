@@ -2,39 +2,33 @@
 
 ## AI Engineer
 
-AI Engineer specializing in **LLM systems, model fine-tuning, and Retrieval-Augmented Generation (RAG)** and more.
+AI Engineer specializing in **Agentic Workflows, Production RAG, model fine-tuning, LLM Systems and** and more.
 
-MSc Artificial Intelligence candidate — University of Pisa  
+MSc Artificial Intelligence — University of Pisa  
 
 ---
 
 ## Current Work
 
-I am leading the development of **SomaAI**, an open-source AI platform aligned with the Rwandan national curriculum — integrating:
+I am building **OpsPilot**, an AI operations agent for Cartora, a fictional e-commerce company. It can understand internal policies and business processes, answer customer questions, and take actions such as checking orders, processing refunds, cancelling orders, and handling payments.
 
 - Structured retrieval pipelines (RAG)  
-- Scalable backend architecture  
-- Education-focused AI systems  
+- Tool Calling and MCPs
+- Interactive UI 
 
-Rwanda AI Network (RAIN): https://github.com/Rwanda-AI-Network  
-SomaAI (Open Source Project): https://github.com/Rwanda-AI-Network/SomaAI  
+OpsPilot: https://github.com/Iyabivuz-e/OpsPilot
 
 ---
 
-## Expertise
+## Specializing
 
+- Agentic AI workflows
 - LLM fine-tuning & evaluation  
 - Retrieval-Augmented Generation (RAG) systems  
 - ML experimentation & deployment  
-- FastAPI, Node.js, Next.js  
+- FastAPI, Pytorch Next.js  
 - AI system design
-- GenAI, AI Agents, and Agentic AI
-
----
-
-## Vision
-
-Building sustainable AI infrastructure for emerging markets, accessibile, and open innovation.
+- GenAI, AI Agents
 
 ---
 
